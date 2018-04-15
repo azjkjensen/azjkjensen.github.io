@@ -1,5 +1,5 @@
 ---
-title: "Test: This is a post."
+title: "Test: This is a post of all posts."
 categories:
   - Clowns
 tags:
