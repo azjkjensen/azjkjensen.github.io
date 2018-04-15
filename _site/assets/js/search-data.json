@@ -1,5 +1,5 @@
 var store = [{
-        "title": "Test: This is a post.",
+        "title": "Test: This is a post of all posts.",
         "excerpt":"The standard Lorem Ipsum passage, used since the 1500s“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit...","categories": ["Clowns"],
         "tags": ["content","css","edge case","lists","markup"],
         "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.1/"
