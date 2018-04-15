@@ -1,0 +1,51 @@
+var store = [{
+        "title": "Test: This is a post.",
+        "excerpt":"The standard Lorem Ipsum passage, used since the 1500s“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit...","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.1/"
+      },{
+        "title": "Test: This is a post.",
+        "excerpt":"test ","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.2/"
+      },{
+        "title": "Test: This is a post.",
+        "excerpt":"test ","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.3/"
+      },{
+        "title": "Test: This is a post.",
+        "excerpt":"test ","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.4/"
+      },{
+        "title": "Test: This is a post.",
+        "excerpt":"test ","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.5/"
+      },{
+        "title": "Test: This is a post.",
+        "excerpt":"test ","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.6/"
+      },{
+        "title": "Test: This is a post.",
+        "excerpt":"test ","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.7/"
+      },{
+        "title": "Test: This is a post.",
+        "excerpt":"test ","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.8/"
+      },{
+        "title": "Test: This is a post.",
+        "excerpt":"test ","categories": ["Clowns"],
+        "tags": ["content","css","edge case","lists","markup"],
+        "url": "http://localhost:4000/clowns/edge-case-nested-and-mixed-lists.9/"
+      },{
+        "title": "Welcome to Jekyll!",
+        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["azjkjensen.github.io","jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/azjkjensen.github.io/jekyll/update/welcome-to-jekyll/"
+      }]
