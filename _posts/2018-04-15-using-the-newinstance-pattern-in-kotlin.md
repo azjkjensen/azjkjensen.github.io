@@ -10,6 +10,7 @@ image:
   thumbnail: "../images/kotlin-android-thumb.png"
 last_modified_at: 2018-04-05T14:25:52-05:00
 ---
+
 Kotlin has a handful of fundamental differences from Java, not the least of which being the omission of static members and methods. This can cause a bit of a headache when trying to duplicate typical Android patterns using Android’s [newest official language](https://developer.android.com/kotlin/index.html).
 
 **Skip the prose and get to the code via this [Github gist](https://gist.github.com/azjkjensen/cf094c79726bab08b68f01dcc2e82a71#file-myfragment-kt).**
