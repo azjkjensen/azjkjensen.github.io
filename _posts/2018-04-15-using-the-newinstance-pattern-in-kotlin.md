@@ -1,5 +1,5 @@
 ---
-title: "Using the NewInstance Pattern in Kotlin"
+title: "using the NewInstance pattern in kotlin"
 categories:
   - programming
 tags:
