@@ -30,6 +30,7 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: "UA-90708894-2" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+facebook_analytics: "863416817201173"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
