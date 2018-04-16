@@ -1,6 +1,0 @@
-var store = [{
-        "title": "Using the NewInstance Pattern in Kotlin",
-        "excerpt":"Kotlin has a handful of fundamental differences from Java, not the least of which being the omission of static members and methods. This can cause a bit of a headache when trying to duplicate typical Android patterns using Android’s newest official language. Skip the prose and get to the code...","categories": ["programming"],
-        "tags": ["kotlin","android"],
-        "url": "http://localhost:4000/programming/using-the-newinstance-pattern-in-kotlin/"
-      }]
