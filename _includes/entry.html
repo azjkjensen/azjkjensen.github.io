@@ -13,14 +13,15 @@
         <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if entry.image.thumbnail %}
+    <!-- Uncomment the following section to bring back preview images for posts. -->
+    <!-- {% if entry.image.thumbnail %}
       {% assign entry_image = entry.image.thumbnail %}
       {% unless entry_image contains '://' %}
         {% assign entry_image = entry_image | relative_url %}
       {% endunless %}
       {% assign entry_image = entry_image | escape %}
       <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
-    {% endif %}
+    {% endif %} -->
   </header>
   {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
