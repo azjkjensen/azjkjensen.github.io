@@ -1,3 +1,5 @@
+![me in all my glory](/../images/me.jpg "me in all my glory")
+
 _Hello. My name is Jk and I build systems._
 
 ### this blog
