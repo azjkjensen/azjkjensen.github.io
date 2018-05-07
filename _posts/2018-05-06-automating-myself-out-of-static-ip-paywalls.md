@@ -1,5 +1,5 @@
 ---
-title: "Automating Myself out of Static IP Paywalls"
+title: "automating myself out of static IP paywalls"
 categories:
   - programming
   - networking
