@@ -14,7 +14,7 @@ The saying goes something like "jack of all trades, master of none" right?
 
 There is something to be said about people who dig deep into a single
 problem and spend their entire life's work focused there. Just look at
-people like [Stephen Hawking](){:target="_blank"}. His life was his craft, andhe was and continues to be richly rewarded for persistence and intelligence. Hawking left behind a legacy that is simultaneously unbelievable and inspiring. But in today's world the odds are against you achieving hyper-success by one-track-mindedness.
+people like [Stephen Hawking](){:target="_blank"}. His life was his craft, and he was and continues to be richly rewarded for persistence and intelligence. Hawking left behind a legacy that is simultaneously unbelievable and inspiring. But in today's world the odds are against you achieving hyper-success by one-track-mindedness.
 
 That is why I believe **mindful holistic effort** holds just as much value as [deep thought](https://en.wikipedia.org/wiki/List_of_minor_The_Hitchhiker%27s_Guide_to_the_Galaxy_characters#Deep_Thought){:target="_blank"}.
 
