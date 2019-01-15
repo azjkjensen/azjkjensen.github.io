@@ -1,5 +1,5 @@
 ---
-title: "android security series part 1: the android platform"
+title: "mobile security series part 1: the android platform"
 categories:
   - programming
   - research
