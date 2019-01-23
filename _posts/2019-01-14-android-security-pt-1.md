@@ -10,7 +10,7 @@ last_modified_at: 2019-01-07T14:25:52-05:00
 excerpt: ""
 ---
 
-This post is the first part of a new series on mobile security where we will explore the Android platform, how security is approached in a mobile context, and what that means for future mobile platforms like AR and VR.
+*This post is the first part of a new series on mobile security where we will explore the Android platform, how security is approached in a mobile context, and what that means for future mobile platforms like AR and VR.*
 
 # android architecture
 

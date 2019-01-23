@@ -4,7 +4,7 @@ _hello. my name is Jk and i build systems._
 
 ### this blog
 
-the best people i know write, so i'm just trying to be like them.
+the best people i know write. i'm just trying to be like them.
 
 ### about me
 
