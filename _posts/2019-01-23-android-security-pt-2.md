@@ -4,7 +4,6 @@ categories:
   - programming
   - research
 tags:
-  - unity
   - android
 last_modified_at: 2019-01-23T08:25:52-05:00
 image: 
