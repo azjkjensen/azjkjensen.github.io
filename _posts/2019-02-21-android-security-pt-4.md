@@ -12,7 +12,7 @@ image:
 excerpt: ""
 ---
 
-*This post is the third in a series on mobile security where we are exploring the Android platform, how security is approached in a mobile context, and what that means for future mobile platforms like AR and VR. [part 1](/android-security-pt-1) [part 2](/android-security-pt-2) [part 3](/android-security-pt-3)*
+*This post is the fourth in a series on mobile security where we are exploring the Android platform, how security is approached in a mobile context, and what that means for future mobile platforms like AR and VR. [part 1](/android-security-pt-1) [part 2](/android-security-pt-2) [part 3](/android-security-pt-3)*
 
 Network security is an enormous and ever-changing field, but some things have remained effectively constant for a while now. Except for the threat that quantum computing poses to it, high-complexity encryption has consistently been shown to protect sensitive data from prying eyes. This, for our purposes, is how Android manages network security. The mobile system is able to provide network protection through public key infrastructure ([PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure)).
 
