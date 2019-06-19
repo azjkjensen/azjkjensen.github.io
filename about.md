@@ -8,9 +8,9 @@ the best people i know write. i'm just trying to be like them.
 
 ### about me
 
-i am a computer engineer working at Arizona State University in [meteor studio](http://meteor.ame.asu.edu/){:target="_blank"}. my work is centered on augmented reality security and privacy.
+i am currently a production engineer at facebook.
 
-after completing my MS in May 2018 I plan to work at Facebook as a Production Engineer.
+i was previously at Arizona State University in [meteor studio](http://meteor.ame.asu.edu/){:target="_blank"} working on augmented reality security and privacy.
 
 i know software will define much of the future of humanity, and my strongest desire is to leave a legacy my family can be proud of.
 
