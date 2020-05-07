@@ -1,5 +1,5 @@
 ---
-title: "What I Learned Running 4 Miles a Day"
+title: "what i learned running 4 miles a day"
 categories:
   - goals
 tags:
