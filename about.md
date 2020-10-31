@@ -1,4 +1,4 @@
-![me in all my glory](/../images/me2.jpg "me in all my glory")
+![me in all my glory](/../images/me4.jpg "me in all my glory")
 
 _hello. my name is Jk and i build systems._
 
