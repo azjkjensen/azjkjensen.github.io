@@ -4,7 +4,7 @@ categories:
   - goals
 tags:
   - monthly-goals
-last_modified_at: 2020-10-31:25:52-05:00
+last_modified_at: 2020-10-31T09:25:52-05:00
 image: 
   path: "../images/parents.png"
   thumbnail: "../images/parents.png"
